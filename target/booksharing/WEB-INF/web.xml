@@ -1,0 +1,188 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+
+  <servlet>
+    <servlet-name>UserServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.UserServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UserServlet</servlet-name>
+    <url-pattern>/getUser</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>UpdateUserServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.UpdateUserServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UpdateUserServlet</servlet-name>
+    <url-pattern>/user/update</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>LoadServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.LoadServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LoadServlet</servlet-name>
+    <url-pattern>/user/load</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>RegisterServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.RegisterServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>RegisterServlet</servlet-name>
+    <url-pattern>/user/addUser</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.LoginServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/user/login</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>AddCollectServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.AddCollectServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>AddCollectServlet</servlet-name>
+    <url-pattern>/book/collect_add</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>DeleteCollectServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.DeleteCollectServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>DeleteCollectServlet</servlet-name>
+    <url-pattern>/book/collect_delete</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>CollectListServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.CollectListServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CollectListServlet</servlet-name>
+    <url-pattern>/book/collect_list</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>CircleListServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.CircleListServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CircleListServlet</servlet-name>
+    <url-pattern>/circle/mine</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>AddSeekBookServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.AddSeekBookServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>AddSeekBookServlet</servlet-name>
+    <url-pattern>/circle/commit_seek</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>SeekBookServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.SeekBookServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>SeekBookServlet</servlet-name>
+    <url-pattern>/circle/circle_seek</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>AddLendBookServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.AddLendBookServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>AddLendBookServlet</servlet-name>
+    <url-pattern>/circle/commit_lend</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>SelectLendBookServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.SelectLendBookServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>SelectLendBookServlet</servlet-name>
+    <url-pattern>/book/select</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>LendBookServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.LendBookServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LendBookServlet</servlet-name>
+    <url-pattern>/circle/circle_lend</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>MyLendServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.MyLendServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>MyLendServlet</servlet-name>
+    <url-pattern>/book/person_list</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>SearchLendBookServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.SearchLendBookServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>SearchLendBookServlet</servlet-name>
+    <url-pattern>/book/select_like</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>CircleDeleteServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.CircleDeleteServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CircleDeleteServlet</servlet-name>
+    <url-pattern>/circle/delete</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>ChatListServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.ChatListServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ChatListServlet</servlet-name>
+    <url-pattern>/info/getList</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>ChatRoomListServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.ChatRoomListServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ChatRoomListServlet</servlet-name>
+    <url-pattern>/info/chatroomlist</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>ChatRoomAddServlet</servlet-name>
+    <servlet-class>gdut.imis.servlet.ChatRoomAddServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ChatRoomAddServlet</servlet-name>
+    <url-pattern>/info/chatroomadd</url-pattern>
+  </servlet-mapping>
+
+</web-app>

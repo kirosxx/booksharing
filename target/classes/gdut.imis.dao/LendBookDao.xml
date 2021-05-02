@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="gdut.imis">
+    <select id="addLendBook" parameterType="gdut.imis.domain.Lendbook" >
+        insert into lendbook
+        values (null,#{user_id},#{bookname},#{photo},#{content},#{type},#{category},#{sendtime})
+    </select>
+
+    <select id="selectLendBook" resultType="gdut.imis.domain.Lendbook">
+        select * from lendbook
+        where id=#{id}
+    </select>
+
+    <select id="categoryLendBook" resultType="gdut.imis.domain.Lendbook">
+        select * from lendbook
+        where category=#{category}
+    </select>
+
+    <select id="SearchLendBook" resultType="gdut.imis.domain.Lendbook">
+        select * from lendbook
+        where bookname like CONCAT(CONCAT('%', #{bookname}), '%')
+    </select>
+
+    <select id="LendBook" parameterType="map" resultType="gdut.imis.domain.Lendbook">
+        select * from lendbook
+        limit #{start},#{end}
+    </select>
+
+    <select id="MyLend" parameterType="map" resultType="gdut.imis.domain.Lendbook">
+        select * from lendbook
+        where user_id=#{user_id}
+    </select>
+
+    <delete id="deleteLendBook" parameterType="gdut.imis.domain.Lendbook">
+        delete from lendbook
+        where id = #{id};
+    </delete>
+</mapper>

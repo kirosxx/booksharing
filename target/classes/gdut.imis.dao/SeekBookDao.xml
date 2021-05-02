@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="gdut.imis">
+    <select id="addSeekBook" parameterType="gdut.imis.domain.Seekbook" >
+        insert into seekbook
+        values (null,#{user_id},#{bookname},#{photo},#{content},#{sendtime})
+    </select>
+
+    <select id="SeekBook" parameterType="map" resultType="gdut.imis.domain.Seekbook">
+        select * from seekbook
+        limit #{start},#{end}
+    </select>
+
+    <select id="MySeek" parameterType="map" resultType="gdut.imis.domain.Seekbook">
+        select * from seekbook
+        where user_id=#{user_id}
+    </select>
+
+    <delete id="deleteSeekBook" parameterType="gdut.imis.domain.Seekbook">
+        delete from seekbook
+        where id = #{id};
+    </delete>
+</mapper>

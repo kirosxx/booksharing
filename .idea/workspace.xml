@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="musiconline:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/java/gdut/imis/test/test01.java" line="8" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f326bf97-a9d7-4f2f-9a91-f410a2bcc017" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/booksharing$test01.ic" NAME="test01 Coverage Results" MODIFIED="1616765468760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>gdut.imis.test.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="booksharing" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/test/test01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Character.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95193">
+              <caret line="4569" selection-start-line="4569" selection-end-line="4569" />
+              <folding>
+                <element signature="e#153206#153207#0" expanded="true" />
+                <element signature="e#153254#153255#0" expanded="true" />
+                <element signature="e#153583#153584#0" expanded="true" />
+                <element signature="e#153616#153617#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63021">
+              <caret line="3098" selection-start-line="3098" selection-end-line="3098" />
+              <folding>
+                <element signature="e#22786#22787#0" expanded="true" />
+                <element signature="e#22821#22822#0" expanded="true" />
+                <element signature="e#117893#117894#0" expanded="true" />
+                <element signature="e#117955#117956#0" expanded="true" />
+                <element signature="e#121769#121770#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16716">
+              <caret line="829" selection-start-line="829" selection-end-line="829" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="190" column="23" selection-start-line="190" selection-start-column="23" selection-end-line="190" selection-end-column="23" />
+              <folding>
+                <element signature="e#23628#23629#0" expanded="true" />
+                <element signature="e#23682#23683#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3108">
+              <caret line="176" selection-start-line="176" selection-end-line="176" />
+              <folding>
+                <element signature="e#10361#10362#0" expanded="true" />
+                <element signature="e#10388#10389#0" expanded="true" />
+                <element signature="e#15586#15587#0" expanded="true" />
+                <element signature="e#15631#15632#0" expanded="true" />
+                <element signature="e#31007#31008#0" expanded="true" />
+                <element signature="e#31039#31040#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/AbstractList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1092">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5145">
+              <caret line="266" selection-start-line="266" selection-end-line="266" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/MyLendServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="54" column="38" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/LendBookServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="47" column="52" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="XSLT Stylesheet" />
+        <option value="Mapper" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>JSONObject</find>
+      <find>System.out.println</find>
+      <find>paramter</find>
+      <find>book/collect_list</find>
+      <find>lendbook</find>
+      <find>ircle/circle_lend</find>
+      <find>collect</find>
+      <find>circle/circle_lend</find>
+      <find>circle/circle_seek</find>
+      <find>list</find>
+      <find>selectUser</find>
+      <find>circle_seek</find>
+      <find>collect_add</find>
+      <find>collect_list</find>
+      <find>info/getList</find>
+      <find>circle/mine</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/FindFavoriteServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/domain/List.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/FindListServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/DeleteListServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/GetListServlet.java" />
+        <option value="$PROJECT_DIR$/src/resources/gdut.imis.dao/ListDao.xml" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/LodaServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/SSLClient.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/domain/Collection.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/domain/Collect.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/AddFavoriteServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/domain/Lendbook.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/domain/Seekbook.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/SearchLendBook.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/AddListServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/CircleDeleteServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/DeleteCollectServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/LoadServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/SearchLendBookServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/SelectLendBookServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/UserServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/UpdateUserServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/domain/chatroom.java" />
+        <option value="$PROJECT_DIR$/src/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/src/resources/gdut.imis.dao/UserDao.xml" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/CharListServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/domain/Chatroom.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/resources/gdut.imis.dao/ChatRoomDao.xml" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/ChatRoomListServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/MyLendServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/ChatRoomAddServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/CollectListServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/ChatListServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/AddCollectServlet.java" />
+        <option value="$PROJECT_DIR$/src/resources/gdut.imis.dao/CollectDao.xml" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/AddLendBookServlet.java" />
+        <option value="$PROJECT_DIR$/src/resources/gdut.imis.dao/LendBookDao.xml" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/AddSeekBookServlet.java" />
+        <option value="$PROJECT_DIR$/src/resources/gdut.imis.dao/SeekBookDao.xml" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/RegisterServlet.java" />
+        <option value="$PROJECT_DIR$/src/resources/gdut.imis.dao/RegisterDao.xml" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/CircleListServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/LendBookServlet.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/servlet/SeekBookServlet.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/test/Foo.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/test/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/java/gdut/imis/test/test01.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="musiconline Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="75" />
+    <option name="y" value="25" />
+    <option name="width" value="1600" />
+    <option name="height" value="710" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="booksharing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="musiconline" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="booksharing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="musiconline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="booksharing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="musiconline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="booksharing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="musiconline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="booksharing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="musiconline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imis" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="booksharing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="musiconline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="booksharing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="musiconline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="booksharing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="musiconline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="booksharing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="musiconline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="booksharing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="musiconline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="gdut.imis.dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="booksharing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="musiconline" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="booksharing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617549349159" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../booksharing" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15136719" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gdut.imis.servlet" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\jw作业\musiconline\src\resources\gdut.imis.dao" />
+      <recent name="E:\jw作业\musiconline\src\java\gdut\imis\domain" />
+      <recent name="E:\jw作业\musiconline\src\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test01">
+    <configuration name="Foo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gdut.imis.test.Foo" />
+      <module name="musiconline" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gdut.imis.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gdut.imis.test.QuickSort" />
+      <module name="musiconline" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gdut.imis.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMybatis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gdut.imis.controller.TestMybatis" />
+      <module name="musiconline" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gdut.imis.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gdut.imis.test.test01" />
+      <module name="musiconline" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gdut.imis.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.271" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.271" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="musiconline:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/booksharing" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_271_musiconline" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62047" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="musiconline:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.271" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/musiconline_war/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="musiconline:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/musiconline_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_musiconline" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62047" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="musiconline:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62055" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestMybatis" />
+      <item itemvalue="Application.Foo" />
+      <item itemvalue="Application.test01" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.271" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test01" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.Foo" />
+        <item itemvalue="Application.TestMybatis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f326bf97-a9d7-4f2f-9a91-f410a2bcc017" name="Default Changelist" comment="" />
+      <created>1604756686175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604756686175</updated>
+      <workItem from="1604756690148" duration="729000" />
+      <workItem from="1604819750981" duration="10822000" />
+      <workItem from="1604905963631" duration="5445000" />
+      <workItem from="1604924833223" duration="3654000" />
+      <workItem from="1604976970841" duration="614000" />
+      <workItem from="1604984270632" duration="662000" />
+      <workItem from="1605018942101" duration="676000" />
+      <workItem from="1605169172550" duration="7480000" />
+      <workItem from="1605187266056" duration="2442000" />
+      <workItem from="1605323865008" duration="611000" />
+      <workItem from="1605408077480" duration="1207000" />
+      <workItem from="1605426680740" duration="3116000" />
+      <workItem from="1605447281388" duration="1942000" />
+      <workItem from="1605515908652" duration="1248000" />
+      <workItem from="1605626265622" duration="812000" />
+      <workItem from="1605686179480" duration="1794000" />
+      <workItem from="1605704024446" duration="1190000" />
+      <workItem from="1605776614580" duration="4344000" />
+      <workItem from="1605962256324" duration="156000" />
+      <workItem from="1608384723404" duration="723000" />
+      <workItem from="1608471016443" duration="1522000" />
+      <workItem from="1608536533526" duration="192000" />
+      <workItem from="1608536869676" duration="15375000" />
+      <workItem from="1608606627986" duration="1976000" />
+      <workItem from="1608621142569" duration="8084000" />
+      <workItem from="1608637951487" duration="5042000" />
+      <workItem from="1608646962421" duration="3568000" />
+      <workItem from="1608712018286" duration="17099000" />
+      <workItem from="1608795473139" duration="7296000" />
+      <workItem from="1608813126036" duration="8378000" />
+      <workItem from="1608861965464" duration="4906000" />
+      <workItem from="1608880804569" duration="2517000" />
+      <workItem from="1608991319395" duration="185000" />
+      <workItem from="1609118777836" duration="2470000" />
+      <workItem from="1609139275169" duration="5429000" />
+      <workItem from="1609332853382" duration="343000" />
+      <workItem from="1610072418967" duration="818000" />
+      <workItem from="1610246533904" duration="2532000" />
+      <workItem from="1614649388187" duration="2828000" />
+      <workItem from="1614669287239" duration="627000" />
+      <workItem from="1614733743025" duration="1309000" />
+      <workItem from="1614741781874" duration="486000" />
+      <workItem from="1614764791094" duration="6496000" />
+      <workItem from="1614861051659" duration="5472000" />
+      <workItem from="1614932584602" duration="1811000" />
+      <workItem from="1615016328602" duration="3529000" />
+      <workItem from="1615081592004" duration="3637000" />
+      <workItem from="1615254290882" duration="13885000" />
+      <workItem from="1615339732210" duration="1661000" />
+      <workItem from="1615359526714" duration="5367000" />
+      <workItem from="1615432248705" duration="2612000" />
+      <workItem from="1615447443561" duration="3155000" />
+      <workItem from="1615554393701" duration="1315000" />
+      <workItem from="1615770678236" duration="1642000" />
+      <workItem from="1615801419617" duration="86000" />
+      <workItem from="1615862970173" duration="482000" />
+      <workItem from="1615865467448" duration="2421000" />
+      <workItem from="1616049408145" duration="3770000" />
+      <workItem from="1616068084482" duration="3147000" />
+      <workItem from="1616117902126" duration="749000" />
+      <workItem from="1616149059042" duration="169000" />
+      <workItem from="1616204187714" duration="849000" />
+      <workItem from="1616223930498" duration="2828000" />
+      <workItem from="1616244266422" duration="793000" />
+      <workItem from="1616419481778" duration="4856000" />
+      <workItem from="1616573580356" duration="175000" />
+      <workItem from="1616658881611" duration="699000" />
+      <workItem from="1616765441981" duration="2067000" />
+      <workItem from="1616938339119" duration="3275000" />
+      <workItem from="1616981542205" duration="2295000" />
+      <workItem from="1617427785005" duration="1961000" />
+      <workItem from="1617466490004" duration="1660000" />
+      <workItem from="1617549143988" duration="798000" />
+      <workItem from="1617854196119" duration="2899000" />
+      <workItem from="1617939254459" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="229305000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.1816354" />
+      <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.26876676" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5007072" side_tool="true" weight="0.26876676" />
+      <window_info id="Web" order="7" sideWeight="0.5021097" side_tool="true" weight="0.26876676" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5033512" side_tool="true" weight="0.24045262" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.45685998" />
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.32956153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32956153" />
+      <window_info anchor="bottom" id="Duplicate detector" order="14" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="15" sideWeight="0.4966488" weight="0.24045262" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.28351206" />
+      <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.26876676" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5007072" side_tool="true" weight="0.26876676" />
+      <window_info id="Web" order="7" sideWeight="0.5021097" side_tool="true" weight="0.26876676" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.45685998" />
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.32956153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Duplicate detector" order="14" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="15" visible="true" weight="0.47100425" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/GetFavoriteServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/DeleteCollectServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/LoadServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="27" column="70" selection-start-line="27" selection-start-column="70" selection-end-line="27" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/SSLClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/UpdateUserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/domain/Chatroom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#1152#1153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/ChatRoomAddServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/ChatRoomListServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="69" column="20" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="69" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/gdut.imis.dao/ChatRoomDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/CollectListServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/gdut.imis.dao/CollectDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/AddLendBookServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/AddSeekBookServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/gdut.imis.dao/UserDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/gdut.imis.dao/RegisterDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="104" selection-start-line="7" selection-start-column="104" selection-end-line="7" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/ChatListServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="43" column="70" selection-start-line="43" selection-start-column="70" selection-end-line="43" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/AddCollectServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="41" column="56" lean-forward="true" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/domain/Seekbook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/domain/Lendbook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/gdut.imis.dao/SeekBookDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/gdut.imis.dao/LendBookDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/SeekBookServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="37" column="57" selection-start-line="37" selection-start-column="57" selection-end-line="37" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/RegisterServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/SearchLendBookServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/test/Foo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3297">
+          <caret line="157" column="16" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/SelectLendBookServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="85" column="43" selection-start-line="85" selection-start-column="43" selection-end-line="85" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/CircleListServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="51" column="75" selection-start-line="51" selection-start-column="75" selection-end-line="51" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/test/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8946">
+          <caret line="453" selection-start-line="453" selection-end-line="453" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9324">
+          <caret line="507" selection-start-line="507" selection-end-line="507" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39417">
+          <caret line="2034" selection-start-line="2034" selection-end-line="2034" />
+          <folding>
+            <element signature="e#83250#83251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6153">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
+          <folding>
+            <element signature="e#11597#11598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3507">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+          <folding>
+            <element signature="e#7468#7469#0" expanded="true" />
+            <element signature="e#8064#8065#0" expanded="true" />
+            <element signature="e#8112#8113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14343">
+          <caret line="734" selection-start-line="734" selection-end-line="734" />
+          <folding>
+            <element signature="e#20831#20832#0" expanded="true" />
+            <element signature="e#20871#20872#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24843">
+          <caret line="1251" selection-start-line="1251" selection-end-line="1251" />
+          <folding>
+            <element signature="e#49082#49083#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/ArrayDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11193">
+          <caret line="589" selection-start-line="589" selection-end-line="589" />
+          <folding>
+            <element signature="e#19235#19236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/test/test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95193">
+          <caret line="4569" selection-start-line="4569" selection-end-line="4569" />
+          <folding>
+            <element signature="e#153206#153207#0" expanded="true" />
+            <element signature="e#153254#153255#0" expanded="true" />
+            <element signature="e#153583#153584#0" expanded="true" />
+            <element signature="e#153616#153617#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63021">
+          <caret line="3098" selection-start-line="3098" selection-end-line="3098" />
+          <folding>
+            <element signature="e#22786#22787#0" expanded="true" />
+            <element signature="e#22821#22822#0" expanded="true" />
+            <element signature="e#117893#117894#0" expanded="true" />
+            <element signature="e#117955#117956#0" expanded="true" />
+            <element signature="e#121769#121770#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16716">
+          <caret line="829" selection-start-line="829" selection-end-line="829" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3108">
+          <caret line="176" selection-start-line="176" selection-end-line="176" />
+          <folding>
+            <element signature="e#10361#10362#0" expanded="true" />
+            <element signature="e#10388#10389#0" expanded="true" />
+            <element signature="e#15586#15587#0" expanded="true" />
+            <element signature="e#15631#15632#0" expanded="true" />
+            <element signature="e#31007#31008#0" expanded="true" />
+            <element signature="e#31039#31040#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5145">
+          <caret line="266" selection-start-line="266" selection-end-line="266" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/MyLendServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="54" column="38" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/gdut/imis/servlet/LendBookServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="47" column="52" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="190" column="23" selection-start-line="190" selection-start-column="23" selection-end-line="190" selection-end-column="23" />
+          <folding>
+            <element signature="e#23628#23629#0" expanded="true" />
+            <element signature="e#23682#23683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

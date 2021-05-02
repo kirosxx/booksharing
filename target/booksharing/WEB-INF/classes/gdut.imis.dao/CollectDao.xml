@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="gdut.imis">
+    <select id="addCollect" parameterType="gdut.imis.domain.Collect" >
+        insert into collect
+        values (null,#{book_id},#{user_id},#{addtime})
+    </select>
+
+    <select id="selectCollect" parameterType="gdut.imis.domain.Collect" resultType="gdut.imis.domain.Collect">
+        select * from collect
+        where user_id=#{user_id};
+    </select>
+
+    <delete id="deleteCollect" parameterType="gdut.imis.domain.Collect">
+        delete from collect
+        where book_id = #{book_id} and user_id = #{user_id};
+    </delete>
+
+    <delete id="deleteRelatedCollect" parameterType="gdut.imis.domain.Lendbook">
+        delete from collect
+        where book_id = #{id};
+    </delete>
+
+</mapper>
